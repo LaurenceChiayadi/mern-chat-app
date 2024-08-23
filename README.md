@@ -78,14 +78,14 @@ A real-time chat application built using the MERN stack (MongoDB, Express.js, Re
 3. **Environment Variables**
    Create a .env file in the backend directory and add the following variables:
 
-```
-PORT=
-MONGO_DB_URL=
+   ```
+   PORT=
+   MONGO_DB_URL=
 
-JWT_SECRET =
+   JWT_SECRET =
 
-NODE_ENV =
-```
+   NODE_ENV =
+   ```
 
 4. **Debugging**
 
